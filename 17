@@ -1,0 +1,11 @@
+17. Stakeholder Register Submission
+The stakeholder register is a formal document that identifies all stakeholders involved in the Cybersecurity Incident Reporting & Response System, along with their roles, interests, and influence levels. This register helps in understanding stakeholder expectations and managing their involvement throughout the project lifecycle.
+Stakeholder	Role	Interests	Influence Level
+Employees / Incident Reporters	End Users	Simple incident reporting, quick acknowledgment, system transparency	Medium
+SOC Analysts	System Users	Efficient incident analysis, guided response workflows, real-time alerts	High
+System Administrator / Security Manager	System Owner	Incident monitoring, user management, compliance tracking	High
+Organizational Management	Project Sponsor	Reduced security risk, regulatory compliance, operational efficiency	High
+IT Support Team	Technical Support	System reliability, security, maintenance, uptime	Medium
+Compliance / Regulatory Authorities	Oversight Body	Adherence to security standards, audit readiness, accountability	Low to Medium
+
+The stakeholder register is reviewed and approved to ensure that all relevant stakeholders are identified and that their expectations are addressed during the design, development, and implementation of the system.

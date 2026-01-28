@@ -1,0 +1,13 @@
+23. Actors Identification
+Actors represent external entities that interact with the Cybersecurity Incident Reporting & Response System. Identifying actors helps in understanding system interactions and defining use cases.
+The following actors have been identified:
+Employee/ Incident Reporter
+Reports suspected or confirmed cybersecurity incidents and views incident status updates.
+SOC Analyst
+Analyses reported incidents, performs severity assessment, follows response workflows, and updates incident status.
+System Administrator / Security Manager
+Manages system users, roles, configurations, monitors incident activity, and generates compliance and audit reports.
+Notification System
+Sends alerts and notifications to relevant stakeholders regarding incident reporting, severity changes, and status updates.
+These actors interact with the system to ensure efficient reporting, timely response, and effective management of cybersecurity incidents across the organization.
+

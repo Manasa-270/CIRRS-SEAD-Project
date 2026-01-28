@@ -1,0 +1,11 @@
+32. Alternative Flows Inclusion
+Alternative flows represent exceptional conditions that may occur during normal system operation and describe how the system responds to such situations in a controlled and reliable manner.
+
+Alternative Flow 1: No Active Incident Scenario
+If a security administrator or SOC analyst accesses the incident monitoring dashboard when no active cybersecurity incidents are present, the system displays a message indicating that there are currently no incidents requiring attention.
+
+Alternative Flow 2: System Unavailability
+If the Cybersecurity Incident Reporting & Response System is temporarily unavailable due to maintenance or technical failure, incident submissions and monitoring actions are paused, and an appropriate notification is displayed to users informing them of the downtime.
+
+Alternative Flow 3: Notification Delivery Failure
+If an incident notification fails to reach intended recipients due to network or service issues, the system logs the delivery failure in the audit trail and automatically retries sending the notification or escalates the alert through alternate communication channels.

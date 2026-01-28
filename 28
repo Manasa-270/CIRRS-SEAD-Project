@@ -1,0 +1,37 @@
+28. Class Attributes and Methods Definition
+Class Name
+Attributes
+Methods
+
+User
+userId, name, role, loginStatus
+ReportIncident(), viewIncidentStatus(), receiveNotification()
+
+Incident
+incidentId, description, timestamp, severityLevel, status, evidence
+createIncident(), updateStatus(), assignSeverity(), attachEvidence()
+
+SeverityLevel
+levelId, levelName, priority
+classifyIncident(), updatePriority()
+
+ResponseWorkflow
+workflowId, steps, assignedTeam, status
+initiateWorkflow(), updateStepStatus(), escalateIncident()
+
+Alert
+alertId, messageContent, recipientUserId, timestamp
+sendAlert(), markAsRead()
+
+Admin
+adminId, accessLevel
+manageUsers(), manageWorkflows(), generateDashboardReport(), configureSystem()
+
+AuditTrail
+auditId, actionTaken, userId, timestamp, incidentId
+recordAction(), viewTrail()
+
+Report
+reportId, reportType, reportData
+createReport(), viewReport(), exportReport()
+

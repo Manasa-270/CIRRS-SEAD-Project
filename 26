@@ -1,0 +1,43 @@
+Use Case 1: Report Incident
+Actor: Employee / Incident Reporter
+Precondition:
+User is authenticated and has access to the system.
+Main Flow:
+User selects the option to report a new incident.
+User enters incident details such as type, description, and time of occurrence.
+System validates the entered information.
+System generates a unique incident ID.
+Incident is stored in the centralized incident repository.
+Alternative Flow:
+If the system is unavailable or required details are missing, incident submission fails and an error message is displayed.
+Postcondition:
+A valid cybersecurity incident is successfully reported and recorded in the system.
+
+Use Case 2: Initiate Response Workflow
+Actor: SOC Analyst
+Precondition:
+SOC analyst is authenticated and an incident is assigned.
+Main Flow:
+SOC analyst selects an assigned incident.
+System displays incident details and severity level.
+System presents the guided response workflow.
+SOC analyst performs response actions and updates progress.
+Incident status is updated to “In Progress.”
+Alternative Flow:
+If the incident is already resolved or closed, the system restricts workflow initiation.
+Postcondition:
+Incident response process is initiated and tracked by the system.
+
+Use Case 3: Monitor Incident Performance
+Actor: System Administrator / Security Manager
+Precondition:
+Administrator is authenticated.
+Main Flow:
+Administrator accesses the incident monitoring dashboard.
+System displays real-time incident statistics and severity distribution.
+Administrator reviews response timelines and performance metrics.
+Alternative Flow:
+If no incidents are available, the system displays default or empty dashboard values.
+Postcondition:
+Incident performance and system activity are successfully monitored.
+

@@ -1,0 +1,12 @@
+ Sequence Diagrams Creation
+Sequence diagrams represent the chronological interaction between actors and system components for specific system operations. In the Cybersecurity Incident Reporting & Response System, sequence diagrams are used to visualize how users, admins, and system components interact during incident management activities.
+The following sequence diagrams are created to capture critical system processes:
+Incident Reporting Process
+Shows how a User reports a new incident, how it is recorded in the Incident class, classified by SeverityLevel, and notifications are sent via Alert.
+Incident Response Workflow Process
+Illustrates how a ResponseWorkflow is triggered for a reported incident, steps are executed, and progress is updated for the User and Admin to monitor.
+Alert Notification Process
+Represents how Alerts are generated and sent to relevant Users or Security Teams based on incident severity or workflow updates.
+Admin Report Generation Process
+Demonstrates how an Admin accesses the system to generate Reports that summarize incidents, workflow statuses, and compliance information.
+These diagrams help developers and stakeholders clearly understand the internal workings of the system, the responsibilities of each component, and the flow of information for efficient incident management.

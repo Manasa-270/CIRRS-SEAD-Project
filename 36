@@ -1,0 +1,10 @@
+36. Deployment Diagram Creation
+The deployment diagram illustrates the physical environment in which the Cybersecurity Incident Reporting & Response System is deployed. It shows the hardware nodes and their connections.
+Deployment Environment
+· Employee / User Device
+· Security Analyst / SOC Workstation
+· Application Server
+· Database Server
+· Admin / Management Dashboard
+· Network (Internet / LAN / VPN)
+

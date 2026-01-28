@@ -1,0 +1,63 @@
+
+12. Functional Requirements Documentation - Document FR-01 through FR-n with acceptance criteria
+The functional requirements define the core capabilities that the Cybersecurity Incident Reporting & Response System must provide to enable effective incident reporting, tracking, response coordination, and compliance management.
+FR-01: Incident Reporting
+Description:
+The system shall allow employees and authorized users to report cybersecurity incidents through a standardized digital form.
+Acceptance Criteria:
+•	User can successfully submit an incident report
+•	Incident details (type, description, timestamp) are captured
+•	A unique incident ID is generated
+•	Incident is stored in the centralized system
+
+FR-02: Incident Severity Classification
+
+Description:
+The system shall automatically classify incidents based on severity levels such as low, medium, high, or critical.
+
+Acceptance Criteria:
+•	Severity is assigned based on predefined rules
+•	Severity level is visible to SOC analysts and administrators
+•	Classification occurs immediately after incident submission
+FR-03: Incident Tracking and Status Management
+Description:
+The system shall track incidents throughout their lifecycle, from detection to resolution.
+Acceptance Criteria:
+•	Incident status updates are recorded (New, In Progress, Resolved, Closed)
+•	Status changes are visible in real time
+•	Incident history is maintained without data loss
+FR-04: Guided Response Workflow
+Description:
+The system shall provide structured response workflows to assist SOC teams in managing incidents.
+Acceptance Criteria:
+•	Workflow steps are displayed based on incident severity
+•	SOC analysts can follow and update response steps
+•	Completion of each step is recorded in the system
+FR-05: Notification and Alert Management
+Description:
+The system shall notify relevant stakeholders when incidents are reported or updated.
+Acceptance Criteria:
+•	Alerts are triggered on incident creation or status change
+•	Notifications reach assigned SOC analysts and administrators
+•	Alert information is clear and accurate
+FR-06: User Authentication and Role-Based Access
+Description:
+The system shall provide secure authentication and role-based access control for users.
+Acceptance Criteria:
+•	Only authorized users can access the system
+•	Users are assigned roles (Reporter, SOC Analyst, Admin)
+•	Unauthorized access attempts are denied
+FR-07: Administrative Dashboard
+Description:
+The system shall provide an administrative dashboard for real-time monitoring and management of incidents.
+Acceptance Criteria:
+•	Admin can view incident statistics and severity distribution
+•	Admin can assign incidents and manage user roles
+•	Dashboard updates in real time
+FR-08: Audit Trail and Report Generation
+Description:
+The system shall generate audit logs and compliance reports for accountability and regulatory purposes.
+Acceptance Criteria:
+•	All incident actions are logged with timestamps and user details
+•	Reports can be generated for audits and reviews
+•	Reports can be viewed and downloaded securely

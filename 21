@@ -1,0 +1,14 @@
+21. Team Workspace Setup
+A dedicated workspace was created within the CASE tool environment to support collaborative system design and maintain an organized project structure for the Cybersecurity Incident Reporting & Response System.
+Workspace Configuration
+The workspace setup includes:
+•	A separate project file created specifically for the system design
+•	Organized folders for different UML diagrams
+•	Clear and consistent naming conventions for diagrams and components
+Benefits of the Workspace Setup
+The structured workspace enables:
+•	Easy navigation and management of design artifacts
+•	Consistent documentation across all system diagrams
+•	Efficient collaboration among team members
+•	Simplified future updates and enhancements to system models
+This workspace setup ensures a systematic, well-organized, and collaborative approach to designing and documenting the Cybersecurity Incident Reporting & Response System.

@@ -1,0 +1,33 @@
+13. Non-Functional Requirements Documentation - Document NFR-01 through NFR-04
+Non-functional requirements define the quality attributes, performance standards, and operational constraints of the Cybersecurity Incident Reporting & Response System.
+NFR-01: Performance
+Description:
+The system shall provide timely responses to user actions such as incident reporting, severity classification, and status updates to support rapid incident handling.
+Acceptance Criteria:
+•	Incident submission response time ≤ 2 seconds
+•	Severity classification occurs immediately after submission
+•	Dashboard and status updates occur in near real time
+
+NFR-02: Security
+Description:
+The system shall ensure secure access, data confidentiality, and protection against unauthorized usage.
+Acceptance Criteria:
+•	Role-based authentication for reporters, SOC analysts, and administrators
+•	Unauthorized access attempts are blocked and logged
+•	Incident data is accessible only to authorized users
+
+NFR-03: Reliability & Availability
+Description:
+The system shall be reliable and available to support continuous incident monitoring and response operations.
+Acceptance Criteria:
+•	System availability of at least 99%
+•	No loss of incident data during system failures
+•	Automatic recovery from minor system errors
+
+NFR-04: Usability
+Description:
+The system shall be user-friendly to ensure efficient usage by both non-technical employees and technical security teams.
+Acceptance Criteria:
+•	Simple and intuitive interface for incident reporting
+•	Clear dashboards and workflows for SOC analysts
+•	Minimal training required for effective system usage

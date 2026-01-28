@@ -1,0 +1,25 @@
+25. Use Case Relationships
+Use case relationships describe how different use cases within the Cybersecurity Incident Reporting & Response System are connected using «include» and «extend» relationships. These relationships help in modularizing functionality and avoiding redundancy.
+Include Relationships
+User Authentication is included in:
+Report Incident
+Initiate Response Workflow
+Update Incident Status
+Monitor Incident Dashboard
+Generate Reports and Audit Logs
+(Users must be authenticated before performing any secure system operation.)
+Track Incident Status is included in:
+Monitor Incident Dashboard
+Generate Reports and Audit Logs
+
+Extend Relationships
+Send Notification extends:
+Report Incident
+Update Incident Status
+(Notifications are triggered only when specific events such as incident creation or status change occur.)
+Classify Incident Severity extends:
+Report Incident
+(Severity classification occurs after an incident is reported.)
+
+These use case relationships ensure a structured, reusable, and efficient system design, supporting secure and streamlined cybersecurity incident management.
+

@@ -1,0 +1,20 @@
+37. Design Document Creation
+The design document explains the architectural and design decisions made during the development of the Cybersecurity Incident Reporting & Response System. The system is designed using a modular and layered approach to improve maintainability, clarity, and scalability.
+Design Decisions
+· A modular architecture is used to separate incident reporting, severity classification, response workflow management, notification, and audit tracking.
+· UML diagrams are used to visually represent system structure (class diagrams) and behavior (sequence and activity diagrams).
+· Security is handled through role-based authentication for employees, SOC analysts, and administrators.
+· The database is centralized to maintain data consistency, integrity, and compliance.
+Assumptions
+· The system is deployed within the organization’s network infrastructure.
+· Users have basic digital literacy.
+· Internet or local network connectivity is available during working hours.
+Limitations
+· The system does not directly block or remove cyber threats; it only supports reporting and response.
+· Advanced AI-based threat prediction is not included.
+· Integration with external SOC tools or third-party security platforms is not supported in this version.
+Scalability Considerations
+· The system can be extended to support multiple offices or SOC teams.
+· Additional incident types or reporting modules can be added easily.
+· Notification methods can be expanded to include SMS, email, or real-time dashboard alerts.
+This design ensures that the Cybersecurity Incident Reporting & Response System meets functional requirements while remaining robust, secure, and suitable for academic implementation.

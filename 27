@@ -1,0 +1,19 @@
+27. Class Identification
+Based on the requirements and use cases of the Cybersecurity Incident Reporting & Response System, the following core classes have been identified. These classes collectively model the structure and behavior of the system:
+User
+Represents employees or security team members who interact with the system. Users can report incidents, view notifications, or track incident status based on their role.
+Incident
+Captures all details related to a cybersecurity event, including description, timestamp, severity, status, and associated evidence.
+SeverityLevel
+Classifies incidents according to their criticality (e.g., Low, Medium, High, Critical) to prioritize response workflows.
+ResponseWorkflow
+Represents structured steps to mitigate or resolve an incident. It can include automated actions, guided procedures, and escalation paths.
+Alert
+Encapsulates system-generated notifications triggered by new incidents, updates, or status changes, sent to relevant users or teams.
+Admin
+Represents system administrators responsible for managing users, incidents, dashboards, and compliance settings.
+AuditTrail
+Records all actions taken on an incident or within the system, including timestamps, user actions, and changes, ensuring accountability and compliance.
+Report
+Generates analytical insights and summaries for management or compliance purposes, such as incident trends, response efficiency, and risk analysis.
+

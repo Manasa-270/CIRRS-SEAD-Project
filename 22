@@ -1,0 +1,24 @@
+22. Project Structure Creation
+The project structure within the CASE tool was designed to logically organize all UML diagrams related to the Cybersecurity Incident Reporting & Response System. The structure ensures clarity, consistency, and ease of maintenance throughout the system design phase.
+Project Structure
+The following structure was created:
+•	Use Case Diagrams
+o	Employee / Incident Reporter Use Cases
+o	SOC Analyst Use Cases
+o	Administrator Use Cases
+•	Class Diagrams
+o	Core System Classes
+o	Supporting and Utility Classes
+•	Sequence Diagrams
+o	Incident Reporting Flow
+o	Severity Classification Flow
+o	Incident Response Workflow
+o	Notification and Alert Flow
+•	Activity Diagrams
+o	Incident Reporting Activity Flow
+o	SOC Response Workflow
+•	Component Diagram
+o	System Architecture Components
+•	Deployment Diagram
+o	System Deployment Environment
+This structured organization of UML artifacts ensures a clear understanding of system behaviour, architecture, and interactions, thereby supporting effective design, collaboration, and future enhancements of the Cybersecurity Incident Reporting & Response System.

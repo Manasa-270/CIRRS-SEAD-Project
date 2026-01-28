@@ -1,0 +1,24 @@
+34. Workflow Documentation
+Workflow documentation explains complex system processes using clear steps, decision points, and parallel activities. It helps in understanding how different components of the Cybersecurity Incident Reporting & Response System work together in real-world security scenarios.
+Workflow 1: End-to-End Cybersecurity Incident Response Workflow
+An employee detects a potential cybersecurity incident such as phishing, malware, or unauthorized access.
+The employee logs into the system securely and submits an incident report with relevant details.
+The system validates the submission and records the incident in the centralized command center.
+The Automatic Severity Classification Module analyzes the incident and assigns a severity level.
+The incident is added to the active incident queue for tracking and response.
+The system notifies the Security Operations Center (SOC) about the newly reported incident.
+SOC analysts investigate the incident and initiate appropriate mitigation actions.
+Incident status is continuously updated as response actions progress.
+The incident is resolved and verified by the security team.
+The incident is closed, and all actions are recorded in the audit trail for compliance and future analysis.
+This workflow ensures rapid detection, structured response, real-time visibility, and regulatory compliance, minimizing the impact of cybersecurity threats.
+Workflow 2: Security Operations Center (SOC) Incident Handling Workflow
+SOC analyst logs into the system using privileged credentials.
+The analyst views the active incident queue along with severity levels and priority indicators.
+The analyst selects the highest-priority incident based on risk and impact.
+The system retrieves incident details and historical context.
+The analyst performs investigation and containment actions.
+Mitigation steps are executed following guided response workflows.
+Incident status is updated in real time within the system.
+Once resolved, the incident is marked as closed, and post-incident documentation is completed.
+This workflow improves response efficiency, prioritization accuracy, collaboration, and accountability within security teams.

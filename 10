@@ -1,0 +1,14 @@
+10. SRS Introduction Section - Document purpose, scope, definitions/acronyms
+1. Purpose
+This Software Requirements Specification (SRS) document defines the functional and non-functional requirements for the Cybersecurity Incident Reporting & Response System (CIRRS). It is intended to be used by the development team, testers, project managers, and stakeholders to understand the system's capabilities and constraints.
+2. Scope
+The CIRRS is a web-based system designed to manage cybersecurity incidents within an organization. It supports incident reporting, triage, assignment, response, and reporting. The system is limited to incident management and does not include proactive security measures.
+3. Definitions and Acronyms
+
+ Term Acronym	Description
+       CIRRS	Cybersecurity Incident Reporting & Response System
+      UI	User Interface
+Incident	A security event that compromises the confidentiality, integrity, or availability of information
+Triage	The process of assessing and prioritizing incidents
+SOC	Security Operations Center
+SLA	Service Level Agreement

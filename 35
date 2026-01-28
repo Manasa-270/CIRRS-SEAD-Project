@@ -1,0 +1,19 @@
+35. Component Diagram Creation
+The component diagram represents the high-level software architecture of the Cybersecurity Incident Reporting & Response System. It illustrates how major system components interact with each other to support incident reporting, severity assessment, response coordination, monitoring, and compliance management.
+Identified Components
+User Interface (Employee Portal, SOC Dashboard & Admin Console)
+Provides interfaces for employees to report incidents, SOC teams to manage responses, and administrators to monitor system performance.
+Incident Reporting Module
+Captures incident details submitted by users and validates the input before forwarding it for analysis.
+Severity Classification & Risk Analysis Module
+Automatically evaluates reported incidents and assigns severity levels based on predefined rules and threat indicators.
+Incident Management & Response Workflow Module
+Manages incident lifecycle stages, including assignment, investigation, mitigation, escalation, and closure.
+Notification & Alert Service
+Sends real-time alerts and updates to employees, SOC analysts, and administrators through multiple communication channels.
+Reporting & Compliance Module
+Generates incident reports, audit logs, compliance documentation, and performance analytics.
+Authentication & Authorization Module
+Ensures secure access control by verifying user identities and enforcing role-based permissions.
+Centralized Incident Database
+Stores incident records, user data, response actions, audit trails, and historical analytics.

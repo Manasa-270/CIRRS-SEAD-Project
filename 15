@@ -1,0 +1,22 @@
+15. Glossary Development - Create project glossary
+Term	Description
+Cybersecurity Incident Reporting & Response System	A centralized digital platform used to report, track, and manage cybersecurity incidents within an organization.
+Cybersecurity Incident	Any event that compromises or threatens the confidentiality, integrity, or availability of information systems.
+Incident Report	A formal record submitted by a user describing a suspected or confirmed security incident.
+Severity Level	Classification of an incident based on its impact and urgency (Low, Medium, High, Critical).
+Incident Lifecycle	The complete process of handling an incident from detection to closure.
+SOC (Security Operations Center)	A team responsible for monitoring, analyzing, and responding to cybersecurity threats.
+SOC Analyst	A security professional who investigates and responds to reported incidents.
+Admin (System Administrator)	Authorized personnel responsible for managing users, configurations, and compliance records.
+Response Workflow	A structured set of steps followed to mitigate and resolve a cybersecurity incident.
+Alert / Notification	A system-generated message informing users or SOC teams about incident updates or critical events.
+Audit Trail	A chronological record of all actions performed during an incident for accountability and compliance.
+Compliance Documentation	Records maintained to meet regulatory and organizational security requirements.
+Risk Analysis	The process of evaluating the potential impact and likelihood of a security incident.
+Dashboard	A real-time visual interface displaying incident statistics, severity distribution, and system status.
+Authentication	The process of verifying a user’s identity before granting system access.
+Authorization	The process of granting permissions to users based on their assigned roles.
+SRS (Software Requirements Specification)	A document that defines the functional and non-functional requirements of the system.
+UI (User Interface)	The visual elements through which users interact with the system.
+Incident ID	A unique identifier assigned to each reported incident.
+Status Update	A change in the state of an incident (e.g., New, In Progress, Resolved, Closed).

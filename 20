@@ -1,0 +1,17 @@
+20. CASE Tool Setup
+For the design phase of the Cybersecurity Incident Reporting & Response System, a Computer-Aided Software Engineering (CASE) tool was selected to efficiently create, manage, and maintain system design artifacts.
+Selected CASE Tool: StarUML
+StarUML was installed and configured on the development environment to support UML-based system modeling. The tool is used to design and document various system diagrams, including:
+•	Use Case Diagrams
+•	Class Diagrams
+•	Sequence Diagrams
+•	Activity Diagrams
+•	Component Diagrams
+•	Deployment Diagrams
+Benefits of the CASE Tool
+The selected CASE tool provides the following advantages:
+•	Support for standard UML notation
+•	Clear and consistent visualization of system architecture
+•	Ease of modification and maintenance of design diagrams
+•	Improved understanding and communication of system structure and behavior
+The successful installation and configuration of the CASE tool ensures a structured, systematic, and standardized approach to the design and documentation of the Cybersecurity Incident Reporting & Response System.

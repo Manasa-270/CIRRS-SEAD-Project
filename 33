@@ -1,0 +1,9 @@
+Activity Diagrams Creation
+Activity diagrams illustrate the workflow of actions performed by different actors within the system. For the Cybersecurity Incident Reporting & Response System, activity diagrams are used to represent how employees, security teams, and administrators interact with the system during incident reporting, monitoring, and response operations.
+Two activity diagrams are created:
+Employee (Incident Reporter) Activity Flow
+Security Operations Center (SOC) Workflow
+
+Activity Diagram 1: Employee (Incident Reporter) Activity Flow
+This diagram depicts the sequence of actions an employee performs from detecting a cybersecurity threat to successfully submitting an incident report into the system.
+The activity flow begins when the employee identifies a potential security incident. The employee then logs into the system using secure authentication and navigates to the incident reporting interface. Relevant incident details, such as incident type, description, and affected systems, are entered and submitted. The system validates the information and confirms successful incident registration, after which the incident enters the response workflow for further analysis and action by the security team.

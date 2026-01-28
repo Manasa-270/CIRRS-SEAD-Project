@@ -1,0 +1,27 @@
+11. SRS Overall Description - Document product perspective, functions, user characteristics, constraints
+This section describes the overall perspective, major functions, user characteristics, and constraints of the Cybersecurity Incident Reporting & Response System.
+1. Product Perspective
+The Cybersecurity Incident Reporting & Response System is a standalone, web-based application designed to provide a centralized platform for reporting, managing, and responding to cybersecurity incidents within an organization. The system serves as a digital command center for employees and Security Operations Center (SOC) teams to track incidents throughout their lifecycle from detection to resolution.
+It operates independently of core business systems while ensuring secure access, standardized workflows, and real-time visibility for all stakeholders.
+2. Product Functions
+The primary functions of the system include:
+•	Incident reporting by employees and stakeholders
+•	Automated incident severity classification
+•	Centralized incident tracking and lifecycle management
+•	Guided response workflows for SOC teams
+•	Real-time administrative dashboard for monitoring threats
+•	Audit trail generation and compliance documentation
+•	Risk analysis and incident reporting for decision-making
+3. User Characteristics
+General Employees / Reporters:
+Have minimal technical expertise and require a simple, user-friendly interface to report security incidents quickly.
+SOC Analysts:
+Possess high technical knowledge and cybersecurity expertise. They require detailed incident data, response tools, and workflow guidance.
+System Administrator / Security Manager:
+Are experienced in system monitoring, compliance management, and report analysis. They oversee system configuration, user roles, and audit reviews.
+4. Constraints
+•	The system requires a secure and stable internet connection.
+•	Must comply with organizational security policies and regulatory standards.
+•	Data privacy and access control must be strictly enforced.
+•	The system is limited to incident reporting and response management and does not perform direct threat mitigation.
+•	Dependence on secure servers and infrastructure for availability and reliability

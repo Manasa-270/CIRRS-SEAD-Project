@@ -1,0 +1,44 @@
+31. Object Interactions Documentation
+Sequence Diagram 1: Token Generation Process
+Actors & Modules:
+Employee/User – Reports the incident
+Incident Reporting System – Receives and processes incidents
+Severity Module – Classifies the threat severity
+Response Workflow Module – Initiates guided response actions
+SOC Dashboard – Displays incident status to security teams
+Interaction Flow:
+Employee/User logs an incident.
+Incident Reporting System validates incident details.
+Severity Module classifies the severity (low, medium, high).
+Response Workflow Module triggers the appropriate mitigation workflow.
+SOC Dashboard updates in real-time with incident status and resolution steps.
+Audit & Compliance Module logs all actions for accountability.
+This ensures incidents are logged, classified, mitigated, and tracked in a structured, transparent, and auditable manner.
+
+
+Sequence Diagram 2: Calling and Serving the Next Customer
+
+Detailed Interaction Flow: 
+The employee logs into the system using secure authentication to access the Cybersecurity Incident Reporting & Response Platform.
+The employee selects the option to report a new cybersecurity incident and submits relevant details such as incident type, description, and affected assets.
+The system validates the incident submission and automatically logs the report into the centralized digital command center.
+The Automatic Severity Classification module analyzes the incident and determines its severity level based on predefined threat assessment rules.
+The classified incident is assigned to the Security Operations Center (SOC) team for investigation and mitigation.
+The system updates the incident status in real time, notifies relevant security personnel, and records all actions in the audit trail for compliance purposes.
+This sequence ensures rapid incident detection, accurate severity classification, coordinated response actions, and transparent monitoring, enabling efficient threat mitigation and regulatory compliance.
+Sequence Diagram 3: Customer Notification Proces
+Detailed Interaction Flow: Incident Status Notification Process
+The system continuously monitors the status of reported cybersecurity incidents within the centralized incident management platform.
+When a significant status change occurs (such as severity escalation, mitigation start, or resolution), the system triggers a notification event.
+The Notification Service prepares and dispatches alert messages to relevant stakeholders, including employees, SOC team members, and administrators.
+The recipients receive real-time notifications informing them about incident progress, required actions, or resolution updates.
+This process ensures timely awareness, improved coordination, and proactive response, reducing delays in threat mitigation and enhancing overall security operations efficiency.
+
+Sequence Diagram 4: Administrative Queue Monitoring Process
+Detailed Interaction Flow:
+The administrator logs into the system using secure administrative credentials to access privileged monitoring functions.
+The administrator accesses the real-time incident monitoring dashboard within the Cybersecurity Incident Reporting & Response System.
+The system aggregates live incident data, including incident counts, severity levels, response status, and active mitigation efforts.
+The Reporting and Analytics Module generates performance and compliance reports, highlighting response times, resolution efficiency, and risk trends.
+The administrator reviews the dashboard and reports to identify delays, bottlenecks, resource constraints, or recurring threat patterns.
+This sequence enables data-driven decision-making, efficient resource allocation, proactive threat management, and compliance oversight, strengthening overall organizational security posture.

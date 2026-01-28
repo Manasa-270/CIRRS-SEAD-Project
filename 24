@@ -1,0 +1,12 @@
+24. Use Case Definition
+Based on the identified actors, the core use cases of the Cybersecurity Incident Reporting & Response System are defined as follows:
+Report Incident – Allows employees to submit cybersecurity incident reports.
+Classify Incident Severity – Automatically or manually assigns severity levels to reported incidents.
+Track Incident Status – Enables users to view the current  status and progress of incidents.
+Initiate Response Workflow – Allows SOC analysts to follow guided response steps.
+Update Incident Status – Enables SOC analysts to update incident lifecycle stages.
+Manage Users and Roles – Allows administrators to manage system users and permissions.
+User Authentication – Verifies user identity and controls access based on roles.
+Monitor Incident Dashboard – Provides real-time visualization of incidents and severity levels.
+Generate Reports and Audit Logs – Produces compliance, audit, and performance reports.
+These use cases collectively describe the primary functionalities required for effective cybersecurity incident reporting, monitoring, and response management within the organization.

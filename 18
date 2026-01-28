@@ -1,0 +1,13 @@
+18. Complete Software Requirements Specification (SRS) Document
+The Software Requirements Specification (SRS) document for the Cybersecurity Incident Reporting & Response System has been prepared by consolidating all previously defined and approved sections. The document provides a comprehensive and structured description of system requirements to guide the design, development, and validation of the system.
+The complete SRS document includes:
+•	Introduction and purpose of the system
+•	Problem statement and system objectives
+•	Overall system description and product perspective
+•	Scope definition and system boundaries
+•	Stakeholder analysis and user characteristics
+•	Functional requirements (FR-01 to FR-08)
+•	Non-functional requirements (NFR-01 to NFR-04)
+•	Use case diagrams and descriptions
+•	Glossary of terms and definitions
+The SRS document adheres to standard software engineering and IEEE SRS documentation practices. It serves as a baseline reference for system design, implementation, testing, and future enhancements of the Cybersecurity Incident Reporting & Response System.

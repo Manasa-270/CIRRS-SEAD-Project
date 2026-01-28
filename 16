@@ -1,0 +1,70 @@
+16. Project Charter – Cybersecurity Incident Reporting & Response System
+Project Title
+Cybersecurity Incident Reporting & Response System
+Project Overview
+The Cybersecurity Incident Reporting & Response System is a web-based software solution designed to centralize the reporting, tracking, and management of cybersecurity incidents within an organization. The system replaces fragmented and manual reporting methods such as emails, spreadsheets, and verbal communication with a structured digital platform.
+It enables employees and security teams to log incidents, classify severity, follow guided response workflows, and monitor incident status in real time. The project aims to improve organizational resilience, reduce incident response time, ensure compliance, and enhance overall cybersecurity incident management efficiency.
+
+Project Objectives
+The primary objectives of this project are:
+•	To provide a centralized platform for reporting cybersecurity incidents
+•	To reduce delays in incident detection and response
+•	To enable real-time tracking of incident status and severity
+•	To assist SOC teams in managing and responding to incidents efficiently
+•	To improve compliance, accountability, and audit readiness
+•	To develop a secure, reliable, and user-friendly incident response system using software engineering principles
+
+Project Scope
+The scope of this project includes the design and development of a Cybersecurity Incident Reporting & Response System that supports:
+•	Incident reporting by employees and authorized users
+•	Automated severity classification of incidents
+•	Incident lifecycle tracking from detection to closure
+•	Guided response workflows for SOC teams
+•	Real-time dashboards for monitoring incidents
+•	Notification and alert management
+•	Audit trails and compliance reporting
+The system is strictly limited to incident reporting, tracking, and response coordination and does not perform direct threat mitigation or security enforcement actions.
+Stakeholders
+The key stakeholders involved in the project include:
+•	Employees / Incident Reporters – Users who report suspected or confirmed security incidents
+•	SOC Analysts – Security professionals responsible for analyzing and responding to incidents
+•	System Administrator / Security Manager – Responsible for system configuration, monitoring, and compliance
+•	Organizational Management – Sponsors interested in security posture and risk reduction
+•	IT Support Team – Responsible for system maintenance and technical support
+
+Project Deliverables
+The major deliverables of the project are:
+•	Software Requirements Specification (SRS) document
+•	Use Case Diagrams
+•	Class Diagram
+•	Sequence Diagrams
+•	Activity Diagrams
+•	Component Diagram
+•	Deployment Diagram
+•	System Design Document
+•	Final Mini Project Report
+
+Assumptions
+•	The organization has basic IT infrastructure and secure servers
+•	Users have basic knowledge of using web-based systems
+•	Stable internet connectivity is available
+•	Users follow organizational security policies while using the system
+
+
+Constraints
+•	The system does not directly mitigate or block cyber threats
+•	Integration with external security tools is outside the project scope
+•	The system must comply with organizational security and privacy policies
+•	Project development is limited to the academic timeline
+
+Risks
+•	Network or server downtime may affect real-time incident tracking
+•	High volume of incidents may impact system performance
+•	Resistance to adoption by users unfamiliar with formal incident reporting
+•	Limited scalability due to academic project constraints
+
+Project Timeline (High-Level)
+•	Requirement Analysis & SRS: Week 1–2
+•	System Design & Diagrams: Week 3–4
+•	Documentation & Review: Week 5
+•	Final Submission: Week 6
